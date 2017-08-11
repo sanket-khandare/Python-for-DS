@@ -10,3 +10,4 @@ The following topics are covered
 - Python Lists
 - Functions and Packages
 - NumPy
+- Graphs using matplotlib
